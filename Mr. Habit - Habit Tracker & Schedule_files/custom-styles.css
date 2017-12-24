@@ -1,0 +1,80 @@
+#footer .footer-main {
+    top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    background: #111111;
+}
+.reflection-text {
+    color: #ffffff;
+}
+#footer .reflection-text {
+    color: #111111;
+}
+p {
+    color: #eeeeee;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #2ECC71;
+}
+#features h5 {
+    color: #2ECC71;
+}
+
+#copy-rights .love-icon {
+    color: #E74C3C;
+}
+#main-header .title h1 {
+    color: #FFFFFF;
+}
+#main-header .slogan {
+    font-size: 1.85rem;
+    color: #111111;
+    background-color: #2ECC71;
+    border: none;
+}
+
+#footer form {
+    margin: 0 auto;
+}
+
+.owl-dots .owl-dot.active span {
+    background-color: #2ECC71;
+}
+
+#subscribe .first {
+    color: #2ECC71;
+}
+
+#main-nav .brand-logo p {
+    font-size: 1.8em;
+    letter-spacing: 0.35rem;
+    text-transform: none;
+}
+
+#main-nav a {
+    text-transform: uppercase;
+}
+
+#main-header, #download, #features, #not-found {
+    background: none;
+}
+
+#download img {
+    right: 8rem;
+    -webkit-transform: rotateZ(30deg);
+    transform: rotateZ(30deg);
+}
+
+.toast {
+    word-break: normal;
+}
+
+#screenshot .navigation i {
+    color: #ffffff;
+}
+
+#footer button {
+    border-radius: 30px;
+}
